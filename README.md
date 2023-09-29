@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Social Media Marketing,Full Stack Developement.**
 
-- 📫 How to reach me **jeshank1123@gmal.com**
+- 📫 How to reach me **jeshank1123@gmail.com**
 
 - ⚡ Fun fact **I think I am Serious in my Carrier.**
 
