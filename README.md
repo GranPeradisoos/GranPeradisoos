@@ -5,15 +5,21 @@
 <img align="right" alt="Coding" width="400" src="https://www.apple.com/newsroom/images/product/app-store/apple_wwdc-app-developer-academy_hero_05112021_big.gif.large.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=granperadisoos&label=Profile%20views&color=0e75b6&style=flat" alt="granperadisoos" /> </p>
 
-- 🔭 I’m currently working on **Hotel Customization**
+-# 💫 About Me:
+🔭 I’m currently working on Hotel Customization<br><br>🌱 I’m currently learning Note JS,Laravel,Bootstrap 5<br><br>💬 Ask me about Social Media Marketing,Full Stack Developement.<br><br>📫 How to reach me jeshank1123@gmail.com<br><br>⚡ Fun fact I think I am Serious in my Carrier
 
-- 🌱 I’m currently learning **Note JS,Laravel,Bootstrap 5**
 
-- 💬 Ask me about **Social Media Marketing,Full Stack Developement.**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jeshankhan26) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeshankhan_26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeshankhan26) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GranPeradisoos&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GranPeradisoos&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GranPeradisoos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📫 How to reach me **jeshank1123@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=GranPeradisoos&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- ⚡ Fun fact **I think I am Serious in my Carrier.**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
