@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=granperadisoos&label=Profile%20views&color=0e75b6&style=flat" alt="granperadisoos" /> </p>
 
 -# 💫 About Me:
-🔭 I’m currently working on Hotel Customization<br><br>🌱 I’m currently learning Note JS,Laravel,Bootstrap 5<br><br>💬 Ask me about Social Media Marketing,Full Stack Developement.<br><br>📫 How to reach me jeshank1123@gmail.com<br><br>⚡ Fun fact I think I am Serious in my Carrier
+🔭 I’m currently working on Skill Development<br><br>🌱 I’m currently learning Note JS,Laravel,Bootstrap 5<br><br>💬 Ask me about Social Media Marketing,Full Stack Developement.<br><br>📫 How to reach me jeshank1123@gmail.com<br><br>⚡ Fun fact I think I am Serious in my Carrier
 
 
 ## 🌐 Socials:
