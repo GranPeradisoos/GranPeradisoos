@@ -49,15 +49,100 @@ In essence, I am Md. Jeshan Khan—a CSE student, a full-stack developer, and an
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![GranPeradisoos GitHub stats](https://github-readme-stats.vercel.app/api?username=GranPeradisoos&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=GranPeradisoos&theme=gruvbox&border_radius=4.5) -->
 
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+ <summary><h3>👨‍💻 GranPeradisoos Coding Journey</h3></summary>
+   a software engineering coding journey can be an exciting and rewarding experience. Whether you're a beginner or looking to enhance your skills, here's a roadmap to guide you through the various stages of becoming a proficient software engineer:
+Stage 1: Getting Started
 
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+    Learn the Basics of Programming:
+        Choose a beginner-friendly language like Python or JavaScript.
+        Understand variables, data types, loops, and basic control flow.
+
+    Explore Fundamental Concepts:
+        Learn about data structures (arrays, linked lists, stacks, queues).
+        Understand algorithms and basic problem-solving.
+
+    Version Control:
+        Familiarize yourself with Git for version control.
+        Learn basic Git commands and workflows.
+
+Stage 2: Deepening Your Knowledge
+
+    Advanced Programming Concepts:
+        Dive into object-oriented programming (OOP).
+        Explore design patterns and principles.
+
+    Database Basics:
+        Learn about relational databases (SQL).
+        Understand basic database design concepts.
+
+    Web Development:
+        Learn HTML, CSS, and JavaScript for front-end development.
+        Explore server-side development with frameworks like Flask or Django (Python) or Express (Node.js).
+
+    Understand APIs:
+        Learn how to make API requests and build simple APIs.
+        Understand RESTful principles.
+
+Stage 3: Specialization
+
+    Choose Your Path:
+        Front-end Development: Dive deeper into modern frameworks like React, Angular, or Vue.js.
+        Back-end Development: Explore server-side languages and frameworks like Node.js, Django, or Spring Boot.
+        Full-Stack Development: Combine front-end and back-end skills.
+
+    Databases and Storage:
+        Explore non-relational databases (MongoDB, Redis).
+        Learn about cloud-based storage solutions (AWS S3, Google Cloud Storage).
+
+    DevOps Practices:
+        Understand continuous integration and continuous deployment (CI/CD).
+        Learn about containerization (Docker) and orchestration (Kubernetes).
+
+Stage 4: Advanced Topics
+
+    Security:
+        Understand basic security principles.
+        Learn about common web application vulnerabilities.
+
+    Testing and Debugging:
+        Explore unit testing, integration testing, and debugging strategies.
+
+    Performance Optimization:
+        Learn techniques for optimizing code and improving application performance.
+
+    Machine Learning and AI (Optional):
+        Explore the basics of machine learning and AI if interested.
+
+Stage 5: Real-world Projects and Collaboration
+
+    Build Real Projects:
+        Start working on real-world projects to apply your skills.
+        Create a portfolio showcasing your work.
+
+    Collaborate on Open Source:
+        Contribute to open-source projects on platforms like GitHub.
+        Collaborate with other developers to gain experience in team environments.
+
+    Networking and Community:
+        Attend meetups, conferences, and join online communities.
+        Network with other developers and professionals in the field.
+
+Stage 6: Continuous Learning
+
+    Stay Updated:
+        Follow industry trends and new technologies.
+        Read blogs, watch tutorials, and participate in online forums.
+
+    Advanced Topics and Specialization:
+        Dive deeper into areas of interest (e.g., machine learning, cybersecurity, blockchain).
+
+    Mentorship and Teaching:
+        Consider mentoring others or teaching to solidify your understanding.
+        Share your knowledge through blog posts or videos.
